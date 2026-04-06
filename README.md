@@ -1,2 +1,2 @@
-# Bank-Customer-Churn-Analysis
-Bank Customer Churn Analysis and Retention
+# Bank-Customer-Churn-Analysis 
+Bank Customer Churn Analysis and Retention Power BI
